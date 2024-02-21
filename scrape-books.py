@@ -50,7 +50,7 @@ while True:
     page_number += 1 
 
 # Print the list of dictionaries (for debugging purposes)
-# print(book_list)
+print(book_list)
 
 # Write the book information to a CSV file
 csv_columns = ['title', 'link', 'price', 'UPC']
